@@ -1,0 +1,14 @@
+C:\Users\Janssen Q. Saludes\Desktop\OOPFINALPROJECT\ExamPerformancePredictor\bin\Debug\net9.0\ExamPerformancePredictor.exe
+C:\Users\Janssen Q. Saludes\Desktop\OOPFINALPROJECT\ExamPerformancePredictor\bin\Debug\net9.0\ExamPerformancePredictor.deps.json
+C:\Users\Janssen Q. Saludes\Desktop\OOPFINALPROJECT\ExamPerformancePredictor\bin\Debug\net9.0\ExamPerformancePredictor.runtimeconfig.json
+C:\Users\Janssen Q. Saludes\Desktop\OOPFINALPROJECT\ExamPerformancePredictor\bin\Debug\net9.0\ExamPerformancePredictor.dll
+C:\Users\Janssen Q. Saludes\Desktop\OOPFINALPROJECT\ExamPerformancePredictor\bin\Debug\net9.0\ExamPerformancePredictor.pdb
+C:\Users\Janssen Q. Saludes\Desktop\OOPFINALPROJECT\ExamPerformancePredictor\obj\Debug\net9.0\ExamPerformancePredictor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janssen Q. Saludes\Desktop\OOPFINALPROJECT\ExamPerformancePredictor\obj\Debug\net9.0\ExamPerformancePredictor.AssemblyInfoInputs.cache
+C:\Users\Janssen Q. Saludes\Desktop\OOPFINALPROJECT\ExamPerformancePredictor\obj\Debug\net9.0\ExamPerformancePredictor.AssemblyInfo.cs
+C:\Users\Janssen Q. Saludes\Desktop\OOPFINALPROJECT\ExamPerformancePredictor\obj\Debug\net9.0\ExamPerformancePredictor.csproj.CoreCompileInputs.cache
+C:\Users\Janssen Q. Saludes\Desktop\OOPFINALPROJECT\ExamPerformancePredictor\obj\Debug\net9.0\ExamPerformancePredictor.dll
+C:\Users\Janssen Q. Saludes\Desktop\OOPFINALPROJECT\ExamPerformancePredictor\obj\Debug\net9.0\refint\ExamPerformancePredictor.dll
+C:\Users\Janssen Q. Saludes\Desktop\OOPFINALPROJECT\ExamPerformancePredictor\obj\Debug\net9.0\ExamPerformancePredictor.pdb
+C:\Users\Janssen Q. Saludes\Desktop\OOPFINALPROJECT\ExamPerformancePredictor\obj\Debug\net9.0\ExamPerformancePredictor.genruntimeconfig.cache
+C:\Users\Janssen Q. Saludes\Desktop\OOPFINALPROJECT\ExamPerformancePredictor\obj\Debug\net9.0\ref\ExamPerformancePredictor.dll
